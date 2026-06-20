@@ -79,7 +79,7 @@ def getVersionName = { ->
 }
 
 def getGroupId = { ->
-    return "com.github.jmir1"
+    return "com.github.Blackyfi"
 }
 
 
